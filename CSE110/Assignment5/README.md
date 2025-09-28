@@ -59,10 +59,11 @@ The assignment includes **15 core tasks** (+ optional 16–21):
 
 ## 🛠️ How to Run  
 Run any task individually from the terminal:  
-- ```bash
+```bash
 python3 src/task1.py
 python3 src/task2.py
 # ...and so on
+```
 
 ---
 
@@ -74,9 +75,9 @@ python3 src/task2.py
 ---
 
 ## 📜 License
-MIT License  
+This project is licensed under the **MIT License**  
 
-Copyright (c) 2025 MD. Shawon Hossain  
+Copyright (c) 2025 **MD. Shawon Hossain**  
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
