@@ -1,0 +1,5 @@
+var1 = int(input())
+var2 = float(input())
+var3 = int(input())
+result = str(var1 + var2) + str(var3)
+print(result)
