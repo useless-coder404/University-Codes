@@ -54,9 +54,9 @@ The assignment includes several beginner-friendly Python tasks:
 ## 🛠️ How to Run  
 Run each task individually from the terminal:  
 - ```bash
-python3 src/task1.py
-python3 src/task2.py
-# ...and so on
+- python3 src/task1.py
+- python3 src/task2.py
+ ...and so on
 
 ---
 
