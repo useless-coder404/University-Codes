@@ -69,15 +69,19 @@ The assignment includes **24 core tasks** (+ optional 25–29):
 
 ## 🛠️ How to Run  
 Run any task individually from the terminal:  
-```bash
+- ```bash
 python3 src/task1.py
 python3 src/task2.py
 # ...and so on
+
+---
 
 ## 📎 Notes
 - All programs are implemented in **Python 3**
 - Input/Output strictly follows the original **Assignment PDF** (`docs/Assignment3.pdf`)
 - This repository is organized for **practice, learning, and portfolio showcase**
+
+---
 
 ## 📜 License
 MIT License  
